@@ -1,2 +1,1 @@
-*.python linguist-detectable=True
-notebooks/** linguist-vendored
+.ipynb linguist-documentation
